@@ -2,8 +2,6 @@
 
 ### 1. Documento de Requerimientos de Software (DRS)
 
-El proyecto "Agenda Personal de Citas" fue elaborado por **Anthony Geovanny Cano Armijos** para la **Universidad Estatal de Milagro (UNEMI)**.
-
 #### Propósito y Alcance
 El propósito principal es servir como una herramienta digital eficiente para **gestionar, programar y recibir recordatorios de citas y eventos personales**. El alcance incluye crear, editar, eliminar y buscar citas, mostrar el calendario y configurar el recordatorio. No se incluyen funciones como el control de inventario o la compartición de calendarios.
 

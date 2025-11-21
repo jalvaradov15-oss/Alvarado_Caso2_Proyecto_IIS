@@ -9,7 +9,6 @@
 **Proyecto:** Agenda Personal de Citas  
 **Versión:** 2.0  
 **Fecha:** 18 de noviembre de 2025  
-**Elaborado por:** \[Anthony Cano]
 
 ---
 
@@ -222,4 +221,5 @@ Se recomienda implementarlas en el orden propuesto para maximizar valor y minimi
 **Elaborado por:** \[Anthony Cano]  
 **Fecha:** 18/11/2025  
 **Versión:** 1.0
+
 
